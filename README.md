@@ -8,7 +8,7 @@
 
 ###
 
-<h4 align="left">👋 Hi, I'm Abhijeet Anand - Passionate Btech-CSE Student<br><br><br>🌟 Passionate about Web Development  <br><br>🧠 Learning: HTML,CSS,JS,C Language <br><br>🔥 I enjoy building real-world projects  <br><br>📦 Working on my college OLX-style platform  <br><br>🛠️ Tech Stack: HTML • CSS • JS • Firebase • Git  <br><br>🎯 Goal: Become a pro full-stack developer</h4>
+<h4 align="left">👋 Hi, I'm Abhijeet Anand - Passionate Btech-CSE Student<br><br><br> 🌟 Passionate about Web Development  <br><br>🧠 Learning: HTML,CSS,JS,C Language <br><br>🔥 I enjoy building real-world projects  <br><br>📦 Working on my college OLX-style platform  <br><br>🛠️ Tech Stack: HTML • CSS • JS • Firebase • Git  <br><br>🎯 Goal: Become a pro full-stack developer</h4>
 
 ###
 
