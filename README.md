@@ -1,3 +1,9 @@
+<div align="center">
+  <img height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQxNGhhanM0bnJ0NTJsa2J6bWVmaWppdXZzNzRwaThhYWo2ZGl3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
+</div>
+
+###
+
 <p align="left">💫 About Me:</p>
 
 ###
@@ -39,10 +45,6 @@
 ###
 
 <h2 align="left">🌐 Socials:</h2>
-
-###
-
-<img align="left" height="150" src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmQxNGhhanM0bnJ0NTJsa2J6bWVmaWppdXZzNzRwaThhYWo2ZGl3aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/bGgsc5mWoryfgKBx1u/giphy.gif"  />
 
 ###
 
